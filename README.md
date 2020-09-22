@@ -65,7 +65,7 @@ Nos envía un correo de autentificación antes de validar el acceso
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/9.png)
 
-Ingresamos la contraseña para cunminar nuestro registro
+Ingresamos la contraseña para culminar nuestro registro
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/10.png)
 
