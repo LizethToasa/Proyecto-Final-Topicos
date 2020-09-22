@@ -5,10 +5,10 @@
 - Alfonso Heredia
 - Lizeth Toasa
 
-c.- Desarrollar una aplicación que muestre información de canciones al buscarlas, puede usar
+Desarrollar una aplicación que muestre información de canciones al buscarlas, puede usar
 el API REST de Spotify: https://developer.spotify.com/documentation/web-api/
 
-Con cualquiera de las opciones su aplicación debe permitir guardar en su cuenta de firebase:
+La apllicación permitira guardar en la cuenta de firebase:
 - Historial de búsqueda por usuario y su geolocalización.
 - Historial de los 4 países consultados por el usuario y su geolocalización.
 - Historial de canciones por usuario y su geolocalización.
