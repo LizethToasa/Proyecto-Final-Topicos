@@ -101,9 +101,6 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/199.png)
 
 
-![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/18.png)
-
-
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/20.png)
 
 
