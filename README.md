@@ -131,11 +131,62 @@ login
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/30.png)
 
-# Funcionalidad
+# Funcionalidad móvil
 Después de crear un usario nos logeamos en la aplicación se nos presentara las canciones que esten en tendencia
 
 ![image](https://user-images.githubusercontent.com/23488888/93938407-cf62dc00-fcee-11ea-80e1-f7b4b36f11e7.png)
 
+En el menu podemos buscar la canción o artista deseado
+
+![image](https://user-images.githubusercontent.com/23488888/93938608-210b6680-fcef-11ea-8d3b-d221f7b880fc.p
+
+Tener en cuenta de permitir activar la ubiccion para poder realizar la buqueda y se guarde en la coleccion de la base de datos de firebase
+
+![image](https://user-images.githubusercontent.com/23488888/93938756-5a43d680-fcef-11ea-82fd-7e0122ab844f.png)
+
+# Firebase
+
+En Firebase podemos ver que se va ir uardando los usuarios creados en este caso de tipo invitado
+
+![image](https://user-images.githubusercontent.com/23488888/93938857-895a4800-fcef-11ea-8a06-e96c151190dc.png)
+
+El usuario de tipo administrador
+
+![image](https://user-images.githubusercontent.com/23488888/93938930-a55de980-fcef-11ea-8e12-b917ab574f7b.png)
+
+Tambien podremos ver las busquedas que se realizo y dónde se lo realizo
+
+![image](https://user-images.githubusercontent.com/23488888/93939055-d2aa9780-fcef-11ea-9871-a362d9f4bf9d.png)
+
+Se visualiza tambien de los paises dónde se hizo la busqueda
+
+![image](https://user-images.githubusercontent.com/23488888/93939139-f40b8380-fcef-11ea-9ab6-1678c943be7a.png)
+
+# Funcionalidad web(Administrador)
+
+Se ingresa el usuario administrador
+
+![image](https://user-images.githubusercontent.com/23488888/93939243-1e5d4100-fcf0-11ea-8f0b-605492c97ab0.png)
+
+Se podra visualizar las busqueda de los usuarios ingresados y registrados
+
+![image](https://user-images.githubusercontent.com/23488888/93939344-46e53b00-fcf0-11ea-937d-f08980b73f10.png)
+
+Al seleccionar algun usuario nos mostrara con mas detalle y ahi podremos modificarlo y guardar o eliminarlo
+
+![image](https://user-images.githubusercontent.com/23488888/93939399-5ebcbf00-fcf0-11ea-914e-02a6f911c629.png)
+
+Iremos al menú y ahora buscaremos por historial de búsqueda
+
+![image](https://user-images.githubusercontent.com/23488888/93939550-90358a80-fcf0-11ea-8be8-a8da4bcdae35.png)
+
+Se nos presentara todos los usuarios registrados y la cancion qu buscaron y en dónde
+
+![image](https://user-images.githubusercontent.com/23488888/93939614-acd1c280-fcf0-11ea-90bc-b760befe3ed9.png)
+
+Y aqui nos mostrara la busqueda por paises 
+
+![image](https://user-images.githubusercontent.com/23488888/93939715-dab70700-fcf0-11ea-9238-eafbd355d6e5.png)
 
 
 **Refrencias:**
