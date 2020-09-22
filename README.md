@@ -132,6 +132,6 @@ login
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/30.png)
 
 
-**Refrencias:**\
+**Refrencias:**
 
-*Tutorial en Youtube:* https://www.youtube.com/watch?v=xxXcxyDDIcU&feature=youtu.be
+*Tutorial en Youtube:* https://www.youtube.com/watch?v=EKjA91SmhnU&t=68s
