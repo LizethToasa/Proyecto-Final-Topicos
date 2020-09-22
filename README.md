@@ -5,7 +5,7 @@
 - Alfonso Heredia
 - Lizeth Toasa
 
-**Referencias Link de Youtube:**\
+**Link de Youtube:**\
 https://www.youtube.com/watch?v=EKjA91SmhnU&t=68s
 
 
