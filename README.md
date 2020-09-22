@@ -123,8 +123,6 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/26.png)
 
 
-![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/27.png)
-
 # Cambiar nombre
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/28.png)
