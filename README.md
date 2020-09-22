@@ -5,6 +5,10 @@
 - Alfonso Heredia
 - Lizeth Toasa
 
+**Referencias Link de Youtube:**\
+https://www.youtube.com/watch?v=EKjA91SmhnU&t=68s
+
+
 Desarrollar una aplicación que muestre información de canciones al buscarlas, puede usar
 el API REST de Spotify: https://developer.spotify.com/documentation/web-api/
 
@@ -134,3 +138,8 @@ Nos envía a una página donde ingresamos nuestra nueva contraseña y la ingresa
 login
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/30.png)
+
+
+**Refrencias:**\
+
+*Tutorial en Youtube:* https://www.youtube.com/watch?v=xxXcxyDDIcU&feature=youtu.be
