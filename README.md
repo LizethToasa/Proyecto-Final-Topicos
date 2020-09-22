@@ -35,9 +35,6 @@ Realizamos pruebas para la realización de token con la ayuda de POSTMAN
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/2.png)
 
-Aplicamos una restricción si no está autenticado
-
-![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/3.png)
 
 # Registro
 
