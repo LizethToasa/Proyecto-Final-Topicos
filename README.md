@@ -168,7 +168,7 @@ Se ingresa el usuario administrador
 
 ![image](https://user-images.githubusercontent.com/23488888/93939243-1e5d4100-fcf0-11ea-8f0b-605492c97ab0.png)
 
-Se podra visualizar las busqueda de los usuarios ingresados y registrados
+Se podra visualizar las busqueda de los usuarios ingresados y registrados incuso en la parte inferior derecha se puede agregar nuevos ususarios
 
 ![image](https://user-images.githubusercontent.com/23488888/93939344-46e53b00-fcf0-11ea-937d-f08980b73f10.png)
 
