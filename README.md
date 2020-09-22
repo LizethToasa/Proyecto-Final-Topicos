@@ -131,6 +131,12 @@ login
 
 ![Calculadora](https://github.com/LizethToasa/Proyecto-Final-Topicos/blob/master/topicos/30.png)
 
+# Funcionalidad
+Después de crear un usario nos logeamos en la aplicación se nos presentara las canciones que esten en tendencia
+
+![image](https://user-images.githubusercontent.com/23488888/93938407-cf62dc00-fcee-11ea-80e1-f7b4b36f11e7.png)
+
+
 
 **Refrencias:**
 
